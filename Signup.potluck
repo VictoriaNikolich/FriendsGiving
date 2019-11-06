@@ -1,3 +1,3 @@
 Shravani >> carrot soufle
-Sarah << mashed potatoes purple 
-Sarah ^^ blueberry pie
+Sarah >>> mashed potatoes purple 
+Sarah >>>> blueberry pie
